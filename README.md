@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonimnor
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning unity
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me @anonimnor tg
 
